@@ -16,12 +16,12 @@ const FeaturedPersonalities = () => {
     },
     {
       id: 2,
-      name: "Константин Терешенко",
-      category: "Промышленник",
-      period: "1840-1903",
-      achievement: "Основатель Кемеровского химзавода",
+      name: "Николай Масалов",
+      category: "Герой Советского Союза",
+      period: "1922-2001",
+      achievement: "Защитник Сталинграда, спас знамя полка",
       image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&q=80",
+        "https://cdn.poehali.dev/files/7240bc98-990a-4651-a0cb-f71db4358dc3.jpg",
       color: "from-[#B8860B] to-[#DAA520]",
     },
     {
