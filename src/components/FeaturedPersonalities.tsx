@@ -6,13 +6,13 @@ const FeaturedPersonalities = () => {
   const personalities = [
     {
       id: 1,
-      name: "Михайло Волков",
-      category: "Первооткрыватель",
-      period: "1720-1795",
-      achievement: "Открыл каменный уголь в Кузбассе",
+      name: "Ерофей Хабаров",
+      category: "Казак-первопроходец",
+      period: "1603-1671",
+      achievement: "Исследователь Приамурья, основатель острогов",
       image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&q=80",
-      color: "from-[#696969] to-[#2F4F4F]",
+        "https://cdn.poehali.dev/files/de01b9c1-f18b-4a14-be5e-afb9158c35eb.jpg",
+      color: "from-[#8B4513] to-[#654321]",
     },
     {
       id: 2,
